@@ -8,7 +8,7 @@ build:
     pre_build:
       # Generate the Sphinx configuration for this Jupyter Book so it builds.
       - "jupyter-book config sphinx ./"
-      - "jupyter-book toc from-project . > _toc.yml"
+      - "jupyter-book toc from-project -i README . > _toc.yml"
     post_build:
       # Print out the log file from readthedocs build; to ensure you can see what is happening.
       - "ls"
