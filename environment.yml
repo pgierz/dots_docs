@@ -1,0 +1,12 @@
+name: dots-docs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter-book
+  - matplotlib
+  - pip:
+      - sphinxcontrib-youtube
+      - bash_kernel
+prefix: /Users/pgierz/opt/miniconda3/envs/dots_docs
