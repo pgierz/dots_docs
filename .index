@@ -1,9 +1,9 @@
 LICENSE
 README.md
-_build
+
 _config.yml
-_old_toc.yml
-_toc.ymlfg
+
+
 environment.yml
 from_jbook
 logo.png
