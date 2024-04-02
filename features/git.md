@@ -18,5 +18,5 @@ $ gpsup  # git push -u origin $(git branch)
 
 For a full list:
 ```console
-$ alias git
+$ alias | grep git
 ```
