@@ -1,0 +1,4 @@
+# Module Files
+
+Some important locations:
+* MODULEPATH=${XDG_DATA_HOME}/modules/<VERSION>/modulefiles
