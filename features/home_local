@@ -1,0 +1,8 @@
+# The `${HOME}/.local` Directory
+
+I try to follow the XDG Standard. Call it pedantic, but it works. Several things are therefore mirrored:
+
+| Regular Directory | `${HOME}/.local` |
+| ----------------- | ---------------- |
+| `/bin`            | `${HOME}/.local/bin` |
+| `/usr/share`      | `${HOME}/.local/share` |
